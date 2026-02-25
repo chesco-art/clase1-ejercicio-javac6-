@@ -11,7 +11,7 @@ git commit -m "mensaje cualquiera" //para guardar en la principal
  git clone https://github.com/usuariocompartido/carpetatrabajo
  git checkout -b feature-dparra //para una nueva rama
 // ahora se puede modificar el archivo copia en la nueva rama
- git add //para adicionar todo lo que se hace
+ git add .//para adicionar todo lo que se hace
  git commit -m "adiciona todo localmente con commits"
 //ir a la rama principal
  git checkout main
